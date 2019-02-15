@@ -17,4 +17,6 @@
 | **TU Berlin - CS** | DE | - 5.15 | Pending | **IELTS 6.5** | [Further Info](https://www.eecs.tu-berlin.de/menue/studium_und_lehre/studiengaenge/informatik_computer_science/master/computer_science_stupo_2015/bewerbung_und_zulassung/parameter/en/) |
 | University of Kaiserslautern - European Master in Software Engineering | DE | 5.1 - 7.15 | Pending | Unclear | [Apply Docs](https://www.uni-kl.de/fileadmin/ha-4/45-FernStudienang/Studienrechtlich/1145-09-01-Checklist_Application_documents.pdf) / 学校一般，可以保底 |
 | Darmstadt University of Technology - Distributed Software Systems | DE | -1.15 | Unavailable |
-| TU Dresden - Distributed Systems Engineering | DE | 4.1 - 5.31 | CS Degree / IELTS 6.0 | [Further Info](https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_studiengang?autoid=49#admission_req) |
+| TU Dresden - Distributed Systems Engineering | DE | 4.1 - 5.31 | Pending | CS Degree / IELTS 6.0 | [Further Info](https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_studiengang?autoid=49#admission_req) |
+| University of Siegen |  | 
+| University of Münster - Information Systems | DE | 5.10 - 5.31 | Pending | **IELTS 6.5** | [Further Info](https://www.wi.uni-muenster.de/prospective-students/our-courses-study/master-science-information-systems) / 很友好 |
