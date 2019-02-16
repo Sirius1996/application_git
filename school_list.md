@@ -18,5 +18,12 @@
 | University of Kaiserslautern - European Master in Software Engineering | DE | 5.1 - 7.15 | Pending | Unclear | [Apply Docs](https://www.uni-kl.de/fileadmin/ha-4/45-FernStudienang/Studienrechtlich/1145-09-01-Checklist_Application_documents.pdf) / 学校一般，可以保底 |
 | Darmstadt University of Technology - Distributed Software Systems | DE | -1.15 | Unavailable |
 | TU Dresden - Distributed Systems Engineering | DE | 4.1 - 5.31 | Pending | CS Degree / IELTS 6.0 | [Further Info](https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_studiengang?autoid=49#admission_req) |
-| University of Siegen |  | 
 | University of Münster - Information Systems | DE | 5.10 - 5.31 | Pending | **IELTS 6.5** | [Further Info](https://www.wi.uni-muenster.de/prospective-students/our-courses-study/master-science-information-systems) / 很友好 |
+| TU Chemniz - Web Engineering | DE | -7.15 | Pending | Unclear | [Further Info](https://www.tu-chemnitz.de/informatik/studium/studiengaenge/index.php?page=ma_we_en#allgemein) / 学校一般，可保底 |
+| **University of Siegen - Human Computer Interaction** | DE | -7.15 | Pending | IELTS 5.5 | [Further Info](http://www.uni-siegen.de/zsb/studienangebot/master/hci.html.en?lang=en) |
+| **University of Siegen - Computer Science (CV)** | DE | -4.30 | Pending | Language : ***German*** or English | [Further Info](http://www.uni-siegen.de/zsb/studienangebot/master/computerscience.html.en) |
+| **University of Erlangen-Nuremberg - International Information Systems** | DE | - 4.15 | Pending | CV / Motivation Letter / High school certificate / university certificates / **IELTS 6.0**| [Projects taught in Engilish](https://www.fau.eu/study/prospective-students/degree-programmes/international-degree-programmes/degree-programmes-taught-exclusively-in-english/) , [Further Info](https://www.ce.studium.fau.eu/prospective-students/application-%20master/) |
+| University of Göttingen - Internet Technologies and Information Systems | DE | 
+| **University of Mennheim - Data Science** | DE | 3.15 - 5.31 | Pending | IELTS 6.0 | [Further Info](https://www.uni-mannheim.de/en/academics/programs/mannheim-master-in-data-science/#c35955) |
+| RWTH - Software Systems Engineering | DE | Unknown | Pending | IELTS 6.0 | No NC, [Further Info](http://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~bnhr/Software-Systems-Engineering-M-Sc/?lidx=1) |
+| University of Kaiserslautern - Software Engineering for Embedded Systems |  DE | 5.1 - 7.15 | Pending | Unclear | [Apply Docs](https://www.uni-kl.de/fileadmin/ha-4/45-FernStudienang/Studienrechtlich/1145-09-01-Checklist_Application_documents.pdf) / 学校一般，可以保底 |
