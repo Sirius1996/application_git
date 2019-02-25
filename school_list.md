@@ -1,6 +1,6 @@
 | School & Major            | Country | Start Time - Deadline           | Status                 | Remained Requirements                       | Comments |
 | :---------------------- | ------- | ------------------ | ---------------------- | ------------------------------------------- | -------- |
-| University of Stuttgart | DE      | 1.15               | Waiting                |  |          |
+| University of Stuttgart | DE      | 1.15               | REJ                |  |          |
 | TU/e                    | NL      |  - 5.1 (scholarship) | Pending  - IELTS(3.2) | IELTS                                       |  |
 | University of Twente | NL | - 5.1 | Pending | Nuffic Certificate/15 ECTS Research Project |  |
 | Vrjie University of Amsterdam | NL | - 4.1 | Pending | CV/**Thesis**/Nuffic Certificate/IELTS:6.5/6.0 | Clear to Apply Now |
@@ -25,5 +25,5 @@
 | **University of Erlangen-Nuremberg - International Information Systems** | DE | - 4.15 | Pending | CV / Motivation Letter / High school certificate / university certificates / **IELTS 6.0**| [Projects taught in Engilish](https://www.fau.eu/study/prospective-students/degree-programmes/international-degree-programmes/degree-programmes-taught-exclusively-in-english/) , [Further Info](https://www.ce.studium.fau.eu/prospective-students/application-%20master/) |
 | University of Göttingen - Internet Technologies and Information Systems | DE | 
 | **University of Mennheim - Data Science** | DE | 3.15 - 5.31 | Pending | IELTS 6.0 | [Further Info](https://www.uni-mannheim.de/en/academics/programs/mannheim-master-in-data-science/#c35955) |
-| RWTH - Software Systems Engineering | DE | Unknown | Pending | IELTS 6.0 | No NC, [Further Info](http://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~bnhr/Software-Systems-Engineering-M-Sc/?lidx=1) |
+| RWTH - Software Systems Engineering | DE | Unknown | Pending | IELTS 6.0 | No NC, [Further Info](http://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~bnhr/Software-Systems-Engineering-M-Sc/?lidx=1) / [App](http://www.rwth-aachen.de/go/id/dqml/lidx/1) |
 | University of Kaiserslautern - Software Engineering for Embedded Systems |  DE | 5.1 - 7.15 | Pending | Unclear | [Apply Docs](https://www.uni-kl.de/fileadmin/ha-4/45-FernStudienang/Studienrechtlich/1145-09-01-Checklist_Application_documents.pdf) / 学校一般，可以保底 |
