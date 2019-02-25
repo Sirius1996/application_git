@@ -27,3 +27,5 @@
 | **University of Mennheim - Data Science** | DE | 3.15 - 5.31 | Pending | IELTS 6.0 | [Further Info](https://www.uni-mannheim.de/en/academics/programs/mannheim-master-in-data-science/#c35955) |
 | RWTH - Software Systems Engineering | DE | Unknown | Pending | IELTS 6.0 | No NC, [Further Info](http://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~bnhr/Software-Systems-Engineering-M-Sc/?lidx=1) / [App](http://www.rwth-aachen.de/go/id/dqml/lidx/1) |
 | University of Kaiserslautern - Software Engineering for Embedded Systems |  DE | 5.1 - 7.15 | Pending | Unclear | [Apply Docs](https://www.uni-kl.de/fileadmin/ha-4/45-FernStudienang/Studienrechtlich/1145-09-01-Checklist_Application_documents.pdf) / 学校一般，可以保底 |
+| Passau ? |
+| **TUM - Computational Science and Engineering** | DE | 1.1 - 5.31 | Pending | IELTS 6.5 / [Requirement](https://www.tum.de/en/studies/degree-programs/detail/computational-science-and-engineering-cse-master-of-science-msc/) | | 
