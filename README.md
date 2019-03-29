@@ -3,7 +3,7 @@
 | University of Stuttgart | DE      | 1.15               | REJ                |  |          |
 | TU/e                    | NL      |  - 5.1 (scholarship) | Pending  - IELTS(3.2) | IELTS                                       |  |
 | University of Twente | NL | - 5.1 | Pending | Nuffic Certificate/15 ECTS Research Project |  |
-| Vrjie University of Amsterdam | NL | - 4.1 | Pending | CV/**Thesis**/Nuffic Certificate/IELTS:6.5/6.0 | Clear to Apply Now |
+| Vrjie University of Amsterdam | NL | - 4.1 | **Waiting** | CV/**Thesis**/Nuffic Certificate/IELTS:6.5/6.0 | Clear to Apply Now |
 | Bielefeld University - Intelligent Systems | DE | 6.1 - 7.15 | Pending | academic certificates / transcript of records / CV | Easy? | 
 | Ulm - Communications and Computer Engineering | DE | 1.10 - 7.15 | Pending |  Application form / DSH-2 | Not Available |
 | **Hamburg University - Intelligent Adaptive Systems** | DE |  2.15 – 3.31 | Pending | IELTS 6.5 / Letter of Motivation / CV | [Futher Info](https://www.master-intelligent-adaptive-systems.com/apply-master-intelligent-adaptive-systems/) |
